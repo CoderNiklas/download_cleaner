@@ -1,2 +1,2 @@
-[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/niklas/Dokumente/code/download_cleaner/target/scala-3.7.4/classes.bak[0m
-[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /home/niklas/Dokumente/code/download_cleaner/target/scala-3.7.4/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/niklas/Documents/code/scala/download_cleaner/target/scala-3.7.4/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /home/niklas/Documents/code/scala/download_cleaner/target/scala-3.7.4/classes.bak[0m

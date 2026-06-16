@@ -1,1 +1,13 @@
-[0m[[0m[0mdebug[0m] [0m[0mJar uptodate: /home/niklas/Dokumente/code/download_cleaner/target/scala-3.7.4/download_cleaner_3-0.1.0-SNAPSHOT.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/niklas/Documents/code/scala/download_cleaner/target/scala-3.7.4/download_cleaner_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cleanupDownloads.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/niklas/Documents/code/scala/download_cleaner/target/scala-3.7.4/classes/cleanupDownloads.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/niklas/Documents/code/scala/download_cleaner/target/scala-3.7.4/classes/main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/niklas/Documents/code/scala/download_cleaner/target/scala-3.7.4/classes/main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cleanupDownloads.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/niklas/Documents/code/scala/download_cleaner/target/scala-3.7.4/classes/cleanupDownloads.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/niklas/Documents/code/scala/download_cleaner/target/scala-3.7.4/classes/main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
